@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jober</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+	
+	<string name="main_home">首页</string>
+	<string name="main_resume">简历</string>
+	<string name="main_search">搜索</string>
+	<string name="main_message">私信</string>
+	<string name="main_follow">粉丝</string>
+	
+</resources>
